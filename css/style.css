@@ -1,0 +1,137 @@
+body{
+	background-color: blueviolet;
+	height: 100%;
+}
+.hedr-con{
+	height: 100px;
+	width: 100%;
+	background-color: rgb(245, 249, 10);
+	float: left;
+	
+}
+.home{
+	height: 300px;
+	width: 100%;
+	background-color: rgb(159, 245, 127);
+}
+.a{
+	margin-left: 2%;
+}
+.about{
+	height: 300px;
+	width: 100%;
+}
+.b{
+	margin-left: 2%;
+	margin-right: 2%
+}
+.skill{
+	height: 300px;
+	width: 100%;
+}
+.des{
+	Height: 300px;
+	width: 50%;
+	float: left;
+}
+.dev{
+	Height: 300px;
+	width: 50%;
+	float: left;
+}
+.resume{
+	height: 300px;
+	width: 100%;
+}
+.edu{
+	Height: 300px;
+	width: 50%;
+	float: left;
+}
+.exp{
+	Height: 300px;
+	width: 50%;
+	float: left;
+}
+.service{
+	height: 300px;
+	width: 100%;
+}
+.lan{
+	Height: 300px;
+	width: 33%;
+	float: left;
+
+}
+.res{
+	Height: 300px;
+	width: 34%;
+	float: left;
+}
+.wor{
+	Height: 300px;
+	width: 33%;
+	float: left;
+
+}
+.portfolio{
+	height: 400px;
+	width: 100%;
+}
+.l{
+    Height: 300px;
+	width: 33%;
+	float: left;	
+}
+.r{
+	Height: 300px;
+	width: 34%;
+	float: left;
+}
+.w{
+	Height: 300px;
+	width: 33%;
+	float: left;
+}
+.contact{
+	height: 400px;
+	width: 100%;
+}
+.con{
+	Height: 400px;
+	width: 25%;
+	float: left;
+}
+.link{
+	Height: 400px;
+	width: 25%;
+	float: left;
+}
+.form{
+	Height: 400px;
+	width: 50%;
+	float: left;
+}
+.ab{
+	margin-right:100%;
+	margin-bottom:1%;
+	padding: 5px 5px;
+}
+.bc{
+	margin-right:100%;
+	margin-bottom:1%;
+	padding: 5px 5px;
+}
+.ca{
+	margin-right:100%;
+	margin-bottom:4%;
+	padding: 5px 5px;
+}
+.da{
+	margin-right:10%;
+	padding: 8px 8px;
+	color: blue;
+	background-color: violate;
+}
+
+	
