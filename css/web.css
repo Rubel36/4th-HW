@@ -1,0 +1,214 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 1140px;
+	float: left;
+}
+.header{
+	width: 100%;
+	float: left;
+	background-color: rgb(246, 228, 9);
+	position: fixed;
+}
+.img{
+	width: 50%;
+	float: left;
+}
+.abc{
+	margin-left: 100px;
+	color: rgb(246, 228, 9);
+}
+.menu{
+	width: 50%;
+	float: left;
+}
+nav ul li{
+	display: inline;
+	list-style: none;
+	margin: 0px 12px;
+}
+.hero{
+	width: 100%;
+	float: left;
+	background-color: rgb(159, 245, 127);
+}
+.a{
+	margin: 100px 100px 50px 100px;
+}
+.bb{
+	margin: 10px 100px 50px 100px;
+}
+.about{
+	width: 100%;
+	float: left;
+	margin: 50px 122px 50px 123px;
+}
+.pic{
+	width: 25%;
+	float: left;
+	margin: 0px 10px 50px 10px;
+}
+.rubel{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+.me{
+	width: 50%;
+	float: left;
+	background-color: rgb(222, 220, 191);
+	margin: 0px 10px 50px 10px;
+}
+.b{
+	margin: 2% 2% 2% 2%
+}
+.skill{
+	width: 100%;
+	float: left;
+	margin: 50px 94px 50px 94px;
+}
+.des{
+	width: 40%;
+	float: left;
+	background-color: rgb(222, 220, 191);
+	margin: 0px 10px 50px 10px;
+}
+.dev{
+	width: 40%;
+	float: left;
+	background-color: rgb(222, 220, 191);
+	margin: 0px 10px 50px 10px;
+}
+.resume{
+	width: 100%;
+	float: left;
+	margin: 50px 94px 50px 94px;
+}
+.edu{
+	width: 40%;
+	float: left;
+	background-color: rgb(222, 220, 191);
+	margin: 0px 10px 50px 10px;
+}
+.exp{
+	width: 40%;
+	float: left;
+	background-color: rgb(222, 220, 191);
+	margin: 0px 10px 50px 10px;
+}
+.service{
+	width: 100%;
+	float: left;
+	margin: 0px 93px 50px 93px;
+}
+.se{
+	margin-bottom: 4%;
+	 font-size: 50px;
+    font-weight: 600;
+}
+.ic{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  font-size: 60px;
+  color: rgb(246, 232, 18);
+}
+.lan{
+	width: 27%;
+	float: left;
+	background-color: rgb(222, 220, 191);
+	margin: 0px 7px 50px 7px;
+
+}
+.res{
+	width: 26%;
+	float: left;
+	background-color: rgb(222, 220, 191);
+	margin: 0px 7px 50px 7px;
+}
+.wor{
+	width: 27%;
+	float: left;
+	background-color: rgb(222, 220, 191);
+	margin: 0px 7px 50px 7px;
+}
+.portfolio{
+	width: 100%;
+	float: left;
+	margin: 0px 114px 50px 114px;
+}
+.m{
+	margin-bottom: 4%;
+	 font-size: 50px;
+    font-weight: 600;
+}
+.pa{
+	margin: 0px 0px 10px 10px;
+}
+.l{
+	width: 27%;
+	float: left;
+}
+.r{
+	width: 26%;
+	float: left;
+}
+.w{
+	width: 27%;
+	float: left;
+}
+.contact{
+	width: 100%;
+	float: left;
+	margin: 0px 114px 50px 114px;
+}
+.con{
+	width: 20%;
+	float: left;
+}
+.link{
+	width: 15%;
+	float: left;
+}
+.form{
+	width: 45%;
+	float: left;
+}
+.g{
+	margin-bottom: 4%;
+	 font-size: 50px;
+    font-weight: 600;
+}
+.co{
+	margin-bottom: 2%;
+}
+.s{
+  margin-bottom: 2%
+}
+.f{
+font-size: 3em;
+}
+.i{
+	font-size: 3em;
+}
+.li{
+	font-size: 3em;
+}
+.ab{
+	margin: 0% 75% 2% 25%;
+	padding: 10px 150px 10px 10px;
+	font-size: 16px;
+    font-weight: 400;
+}
+.bc{
+	margin: 0% 75% 5% 25%;
+	padding: 10px;
+	color: blue;
+    font-size: 16px;
+    font-weight: 600;
+	background-color: rgb(246, 228, 9);
+}
